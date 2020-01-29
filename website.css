@@ -216,6 +216,93 @@
 #twitter{
 	display: none;
 }
+#head1{
+	display: none;
+}
+#down{
+	display: none;
+}
+#head2{
+	display: none;
+}
+#down1{
+	display: none;
+}
+#head3{
+	display: none;
+}
+#header3{
+	display: none;
+}
+#head4{
+	display: none;
+}
+#head5{
+	display: none;
+}
+#header4{
+	display: none;
+}
+#extra{
+	display: none;
+}
+#rijschool{
+	display: none;
+}
+#extra1{
+	display: none;
+}
+#meer{
+	display: none;
+}
+.item{
+	display: none;
+}
+#balk3{
+	display: none;
+}
+#auto1{
+	display: none;
+}
+#proef1{
+	display: none;
+}
+#autotext{
+	display: none;
+}
+#map1{
+	display: none;
+}
+#locaties1{
+	display: none;
+}
+#balk4{
+	display: none;
+}
+#maptext{
+	display: none;
+}
+#hattext{
+	display: none;
+}
+#hat1{
+	display: none;
+}
+#balk5{
+	display: none;
+}
+#hattext{
+	display: none;
+}
+#hier1{
+	display: none;
+}
+.video1{
+	display: none;
+}
+#rijlessen1{
+	display: none;
+}
 @media(min-width:1024px){
 
 	#blue{
@@ -293,8 +380,282 @@
 		margin-left: 10px;
 	}
 	
+	#header3{
+		display: inline-block;
+		margin-left: 100px;
+	}
+
+	#head1{
+		display: inline-block;
+		position: absolute;
+		top: 90px;
+		left: 600px;
+		color: #1A5095;
+	}
+
+	#down{
+		display: inline-block;
+		position: absolute;
+		top: 108px;
+		margin-left: 200px;
+		color: #1A5095;
+	}
+
+	#head2{
+		display: inline-block;
+		position: absolute;
+		left: 800px;
+		top: 92px;
+		color: #1A5095;
+	}
+
+	#down1{
+		display: inline-block;
+		position: absolute;
+		top: 108px;
+		margin-left: 420px;
+		color: #1A5095;
+	}
+
+	#head3{
+		display: inline-block;
+		position: absolute;
+		top: 92px;
+		left: 1020px;
+		color: #1A5095;
+	}
+
+	#head4{
+		display: inline-block;
+		position: absolute;
+		top: 92px;
+		left: 1170px;
+		color: #1A5095;
+	}
 	
-	
+	#head5{
+		display: inline-block;
+		position: absolute;
+		top: 92px;
+		left: 1360px;
+		color: #1A5095;
+	}
+
+	#header4{
+		display: inline-block;
+		margin-top: 0px;
+		width: 101%;
+		margin-left: -10px;
+		height: 580px;
+	}
+
+	#extra{
+		display: inline-block;
+		position: absolute;
+		top: 600px;
+		left: 600px;
+		height: 70px;
+		width: 300px;
+		border: solid white 2px;
+		background-color: #1A5095;
+	}
+
+	#rijschool{
+		display: inline-block;
+		color: white;
+		margin-left: 50px;
+		margin-top: 20px;
+		
+	}
+
+	#extra1{
+		display: inline-block;
+		position: absolute;
+		top: 680px;
+		left: 550px;
+		height:30px;
+		width: 400px;
+		border: solid white 2px;
+		background-color: #1A5095;
+	}
+	#meer{
+		display: inline-block;
+		color: white;
+		margin-top: 5px;
+		margin-left: 30px;
+	}
+
+	.item{
+		display: inline-block;
+  		float:right;
+  		height: 20px;
+  		width: 100%;
+
+}
+
+	#logo{
+		height: 550px;
+	}
+	#rij{
+		height: 550px;
+
+	}
+	#rij1{
+		height: 550px;
+		width: 100%;
+	}
+		#rij2{
+		height: 550px;
+		width: 100%;
+	}
+		#rij3{
+		height: 550px;
+		width: 100%;
+	}
+		#rij4{
+		height: 550px;
+		width: 100%;
+	}
+		#rij5{
+		height: 550px;
+		width: 100%;
+	}
+		#rij6{
+		height: 550px;
+		width: 100%;
+	}
+		#rij7{
+		height: 550px;
+		width: 100%;
+	}
+		#rij8{
+		height: 550px;
+		width: 100%;
+	}
+
+	#rij9{
+		height: 550px;
+		width: 100%;
+	}
+
+	#rij10{
+		height: 550px;
+		width: 100%;
+	}
+
+	#rij11{
+		height: 550px;
+		width: 100%;
+	}
+
+#auto1{
+	display: inline-block;
+	font-size: 2em;
+	color: #1A5095;
+	margin-top: 600px;
+	margin-left: 140px;
+}
+#proef1{
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: -25px;
+	font-size: 1em;
+	color: #606367;
+}
+#balk3{
+	display: inline-block;
+	position: absolute;
+	top: 870px;
+	left: 100px;
+	background-color: #1A5095;
+	height: 2px;
+	width: 25%;
+}
+#autotext{
+	display: inline-block;
+	position: absolute;
+	left: 140px;
+	top: 870px;
+	width: 25%;
+	color: grey;
+}
+
+#map1{
+	display: inline-block;
+	margin-left: 330px;
+	color: #1A5095;
+	font-size: 2em;
+}
+#locaties1{
+	display: inline-block;
+	font-size: 1em;
+	margin-left: 10px;
+	color: #606367;
+}
+#balk4{
+	display: inline-block;
+	position: absolute;
+	top: 870px;
+	left: 580px;
+	background-color: #1A5095;
+	height: 2px;
+	width: 25%;
+}
+#maptext{
+	display: inline-block;
+	position: absolute;
+	top: 870px;
+	left: 620px;
+	width: 23%;
+	color: grey;
+}
+#hat1{
+	display: inline-block;
+	position: absolute;
+	top: 829px;
+	left: 1070px;
+	color: #1A5095;
+	font-size: 2em;
+}
+#balk5{
+	display: inline-block;
+	position: absolute;
+	top: 870px;
+	left: 1030px;
+	background-color: #1A5095;
+	height: 2px;
+	width: 25%;
+}
+#rijlessen1{
+	display: inline-block;
+	margin-left: 365px;
+	font-size: 1em;
+	color: #606367;
+}
+#hattext{
+	display: inline-block;
+	position: absolute;
+	top: 870px;
+	left: 1060px;
+	width: 25%;
+	color: grey;
+}
+#hier1{
+	display: inline-block;
+	color: #1A5095;
+}
+
+.video1{
+	display: inline-block;
+	margin-top: 230px;
+	margin-left: 130px;
+	width: 85%;
+	height: 30rem;
+	border: solid #1A5095 10px;
+}
+
+
+
 
 
 
